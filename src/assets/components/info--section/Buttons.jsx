@@ -1,5 +1,5 @@
-import mail from '/Users/spencer/digital-business-card/src/assets/mail.png'
-import linkedin from '/Users/spencer/digital-business-card/src/assets/linkedin.png'
+import mail from '../../images/mail.png'
+import linkedin from '../../images/linkedin.png'
 
 export default function Buttons(){
     return (

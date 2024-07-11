@@ -1,5 +1,5 @@
 import React from 'react'
-import ME from '../ME.jpg'
+import ME from '../images/ME.jpg'
 
 export default function Headshot() {
     return(
